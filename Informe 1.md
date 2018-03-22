@@ -1,9 +1,9 @@
 Marcelo Araya Yáñez  
 BIOL311
 
-# Laboratorio nº1: Bases de datos biológicas. #
-
 ---
+
+# Laboratorio nº1: Bases de datos biológicas. #
 
 ### Parte 1: Enfermedades genéticas y genes. ###
 
