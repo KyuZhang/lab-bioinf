@@ -1,7 +1,7 @@
-# Laboratorio nº1: Bases de datos biológicas. #
-
 Marcelo Araya Yáñez  
 BIOL311
+
+# Laboratorio nº1: Bases de datos biológicas. #
 
 ---
 
